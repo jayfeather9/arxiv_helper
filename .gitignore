@@ -1,0 +1,4 @@
+database
+*.md
+set_api.sh
+__pycache__
